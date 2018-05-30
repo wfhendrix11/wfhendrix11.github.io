@@ -38,7 +38,7 @@ $base-color: #2E4053;
 $base-color-hover: darken($base-color, 10%);
 
 // Define background colors
-$background: #85929E;
+$background: #85929E;			// changes half of the background colors
 $background-alt: #85929E;
 
 // Define border colors
@@ -369,7 +369,7 @@ footer {
     }
 
     h1 {
-        color: #fff;
+        color: #323639;					// changed by me!
         font-weight: 900;
         font-size: 5em;
         text-transform: uppercase;
@@ -507,7 +507,7 @@ footer {
 
 .vtimeline-content {
     margin-left: 350px;
-    background: #fff;
+    background: #323639;				// changed by me!
     border: 1px solid #e6e6e6;
     padding: 15px;
     border-radius: 3px;
